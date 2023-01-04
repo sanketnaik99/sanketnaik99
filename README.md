@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github Stats](https://github-stats-one-gamma.vercel.app/api?username=sanketnaik99&count_private=true&show_icons=true&theme=dark)
+![My Github Stats](https://github-stats-one-gamma.vercel.app/api?username=sanketnaik99&count_private=true&show_icons=true&theme=dark)
 
 <!--
 **sanketnaik99/sanketnaik99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
